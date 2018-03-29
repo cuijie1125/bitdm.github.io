@@ -4,9 +4,9 @@ mathjax: true
 permalink: /2018/projects/p09/proposal/
 ---
 
-## 项目题目
+## O2O优惠券使用预测
 
-### 成员
+### 成员：崔杰
 
 ### 问题描述
 
